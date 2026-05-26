@@ -99,4 +99,3 @@ GitHub: https://github.com/fabianpradod/proyecto2-web
 - TypeScript (5 puntos)
 - Bun como package manager con lockfile commiteado (5 puntos)
 - CI con GitHub Actions (5 puntos)
-- Atributos de accesibilidad: aria-label, aria-live (5 puntos)
