@@ -43,7 +43,7 @@ bun run lint
 
 ## Deployment
 
-Servidor de la clase: 
+GitHub Pages: https://fabianpradod.github.io/proyecto2-web/ 
 
 ## Repositorio
 
