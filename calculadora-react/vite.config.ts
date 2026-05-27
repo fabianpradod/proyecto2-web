@@ -2,6 +2,7 @@ import { defineConfig } from 'vitest/config'
 import react from '@vitejs/plugin-react'
 
 export default defineConfig({
+  base: '/proyecto2-web/calculadora-react/',
   plugins: [react()],
   test: {
     environment: 'jsdom',
